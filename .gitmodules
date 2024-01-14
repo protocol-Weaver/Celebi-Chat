@@ -1,0 +1,3 @@
+[submodule "Front-End"]
+	path = Front-End
+	url = https://github.com/protocol-Weaver/Celebi-Chat-Front-End
